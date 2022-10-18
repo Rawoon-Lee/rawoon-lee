@@ -1,5 +1,5 @@
 ### 😆
-<a href="https://velog.io/@rawoon" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=#20C997"/></a>
+<a href="https://velog.io/@rawoon" target="_blank"><img src="https://simpleicons.org/icons/velog.svg?style=뱃지모양&logo=로고&logoColor=#20C997"/></a>
 <!--
 **Rawoon-Lee/rawoon-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
